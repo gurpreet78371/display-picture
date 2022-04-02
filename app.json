@@ -1,0 +1,16 @@
+{
+    "id": "8fcaef46-d208-4d7a-862f-e00dea1e7c60",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Gurpreet SIngh",
+        "homepage": "N/A",
+        "support": "N/A"
+    },
+    "name": "display-picture",
+    "nameSlug": "display-picture",
+    "classFile": "DisplayPictureApp.ts",
+    "description": "this is a simple app to display pictures on Rocket.Chat chats.",
+    "implements": []
+}
